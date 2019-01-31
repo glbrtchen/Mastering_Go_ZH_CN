@@ -12,6 +12,7 @@ func main() {
 		fmt.Println("Need a domain name!")
 		return
 	}
+
 	domain := arguments[1]
 	MXs, err := net.LookupMX(domain)
 	if err != nil {
