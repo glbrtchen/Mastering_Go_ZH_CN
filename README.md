@@ -125,7 +125,6 @@
   - [12.4 命令行工具netcat](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.4.md)
   - [12.5 读取网络接口的配置文件](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.5.md)
   - [12.6 实现DNS查询](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.md)
-<<<<<<< 9ddff86b3dbd3cd0a04a86671588d304fe5bee09
     - [12.6.1 获取域名的 NS 记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.1.md)
     - [12.6.2 获取域名的 MX 记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.2.md)
   - [12.7 Go实现web服务器](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.7.md)
@@ -143,10 +142,6 @@
   - [12.12 延展阅读](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.12.md)
   - [12.13 练习](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.13.md)
   - [12.14 本章小结](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.14.md)
-=======
-    - [12.6.1 获取域名的NS记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.1.md)
-    - [12.6.2 获取域名的MX记录](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter12/12.6.2.md)
->>>>>>> 增加第十二章第六小节
 
 - [chapter 13 网络编程 - 构建服务器与客户端](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.0.md)
   - [13.1 Go 标准库-net](https://github.com/hantmac/Mastering_Go_ZH_CN/tree/master/eBook/chapter13/13.1.md)
